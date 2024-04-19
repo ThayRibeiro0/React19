@@ -5,9 +5,6 @@ To install the new version I first created a new project with 'npx create-vite .
 The base of this it was with the course: 'O React JS 19 está incrível! Conheça todos os novos recursos do React - Matheus Battisti' with reference below.
 
 
-
-
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
