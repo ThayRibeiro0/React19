@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## References
+- [Youtube] - O React JS 19 está incrível! Conheça todos os novos recursos do React - Matheus Battisti - (https://www.youtube.com/watch?v=Y8tiDuvmKUg&t=1s)
+
