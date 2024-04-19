@@ -1,4 +1,5 @@
 import './App.css'
+import ParentComponent from './components/ParentComponent'
 import UserForm from './components/UserForm'
 
 function App() {
@@ -9,8 +10,14 @@ function App() {
         name='description'
         content='Learn programming'
       />
-      <h1>1 - Actions</h1>
+
+      {/* 1 - Actions */}
+      <h1>1️⃣ Content</h1> 
       <UserForm />
+
+      {/* 2 - Ref like props */}
+      <h2>2️⃣ </h2>
+      <ParentComponent />
     </>
   )
 }
@@ -32,3 +39,5 @@ export default App
 // UserForm
 
 //meta tags/datas here
+
+//ref like prop - set a reference like prop at the input

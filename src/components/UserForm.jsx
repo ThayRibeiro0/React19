@@ -25,14 +25,14 @@ const UserForm = () => {
     <div>
         <form action={handleAddUser}>
             <div>
-                <input type="text" name='name' placeholder='Type your name:' />
+                <input type="text" name='name' placeholder='Type here your name:' />
             </div>
             <div>
-                <input type="email" name='email' placeholder='Type your email:' /> 
+                <input type="email" name='email' placeholder='Type here your email:' /> 
             </div>
-            <button type="submit">Send</button>
+            <button type="submit">Save</button>
         </form>
-        <h3>Users</h3>
+        <h3>Database</h3>
         <ul>
             {users.map((user, index) => (
                 <li key={index}>
